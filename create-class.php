@@ -129,10 +129,10 @@ else if($error){?>
 
                                                 <form method="post">
                                                     <div class="form-group has-success">
-                                                        <label for="success" class="control-label">Nombre de Año Escolar</label>
+                                                        <label for="success" class="control-label">Nivel</label>
                                                 		<div class="">
                                                 			<input type="text" name="classname" class="form-control" required="required" id="success">
-                                                            <span class="help-block">Ejemplo - Tercero, Cuarto, Quinto etc</span>
+                                                            <span class="help-block">Ejemplo - Basic 1, Basic 2, Basic 3 etc</span>
                                                 		</div>
                                                 	</div>
                                                        <div class="form-group has-success">

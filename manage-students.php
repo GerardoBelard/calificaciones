@@ -26,7 +26,7 @@ if(strlen($_SESSION['alogin'])=="")
         <link rel="stylesheet" href="css/main.css" media="screen" >
         <script src="js/modernizr/modernizr.min.js"></script>
           <style>
-        .errorWrap {
+.errorWrap {
     padding: 10px;
     margin: 0 0 20px 0;
     background: #fff;
@@ -47,7 +47,7 @@ if(strlen($_SESSION['alogin'])=="")
     <body class="top-navbar-fixed">
         <div class="main-wrapper">
 
-            <!-- ========== TOP NAVBAR ========== -->
+            <!-- ========== agrega barra  ========== -->
    <?php include('includes/topbar.php');?> 
             <!-- ========== WRAPPER FOR BOTH SIDEBARS & MAIN CONTENT ========== -->
             <div class="content-wrapper">
@@ -58,7 +58,7 @@ if(strlen($_SESSION['alogin'])=="")
                         <div class="container-fluid">
                             <div class="row page-title-div">
                                 <div class="col-md-6">
-                                    <h2 class="title">Gestionar Estudiantes</h2>
+                                    <h2 class="title">Estudiantes Inscritos</h2>
                                 
                                 </div>
                                 
@@ -69,8 +69,7 @@ if(strlen($_SESSION['alogin'])=="")
                                 <div class="col-md-6">
                                     <ul class="breadcrumb">
             							<li><a href="dashboard.php"><i class="fa fa-home"></i> Inicio</a></li>
-                                        <li> Estudiantes</li>
-            							<li class="active"> Gestionar Estudiantes</li>
+            							<li class="active"> Estudiantes Inscritos</li>
             						</ul>
                                 </div>
                              
@@ -110,7 +109,7 @@ else if($error){?>
                                                             <th>#</th>
                                                             <th>Nombre de Estudiante</th>
                                                             <th>ID</th>
-                                                            <th>Año Escolar</th>
+                                                            <th>Nivel</th>
                                                             <th>Fecha de Registro</th>
                                                             <th>Estado</th>
                                                             <th>Acción</th>

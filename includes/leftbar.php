@@ -1,9 +1,9 @@
 <div class="left-sidebar bg-black-300 box-shadow ">
                         <div class="sidebar-content">
                             <div class="user-info closed">
-                                <img src="https://avatars2.githubusercontent.com/u/20095701?s=460&u=2fa126bd0dc05e4e245767a1a13be3441b6a8972&v=4" width="90" alt="ConfiguroWeb" class="img-circle profile-img">
-                                <h6 class="title">ConfiguroWeb</h6>
-                                <small class="info">Desarrollo PHP</small>
+                                <img src="https://avatars2.githubusercontent.com/u/20095701?s=460&u=2fa126bd0dc05e4e245767a1a13be3441b6a8972&v=4" width="90" alt="CLE" class="img-circle profile-img">
+                                <h6 class="title">CLE</h6>
+                                <small class="info">Administracion</small>
                             </div>
                             <!-- /.user-info -->
 

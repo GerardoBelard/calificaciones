@@ -72,7 +72,7 @@ foreach($results as $result)
                             </div>
                         </div>
                         <!-- /.panel -->
-                        <p class="text-muted text-center"><small>Para más desarrollos accede a <a href="https://www.configuroweb.com/">ConfiguroWeb</a></small></p>
+                        <p class="text-muted text-center"><small>En caso de error contacta a Coordinacion</a></small></p>
                     </div>
                     <!-- /.col-md-6 col-md-offset-3 -->
                 </div>
